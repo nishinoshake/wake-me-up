@@ -11,4 +11,4 @@ Wake me up, if I'm asleep.
 * [Withings Sleep](https://www.withings.com/us/en/sleep)
 
 ## Article
-https://zenn.dev/articles/so-wake-me-up
+https://zenn.dev/nishinoshake/articles/so-wake-me-up
